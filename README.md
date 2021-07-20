@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayeshkrt
+- 👋 Hi, I’m Jayesh
 - 👀 I’m interested in making new projects using C++, R, python and bash
 - 🌱 I’m currently learning Software Development and Data Analysis
 - 💞️ I’m looking to collaborate on useful projects that directly create an impact on real-life
